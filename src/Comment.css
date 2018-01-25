@@ -1,0 +1,32 @@
+.Item {
+    margin-bottom: 1vh;
+    font-size: 1.5em;
+    word-wrap: break-word;
+    max-width: 100%;
+}
+
+.Votes {
+    font-weight: bolder;
+}
+
+.Clicker {
+    margin-left: 1vw;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+.Clickers {
+    text-align: right;
+    margin-left: 1vw;
+}
+
+.Left { 
+    margin-right: 0.4vw;
+}
+.Right {
+    margin-right: 1vw;
+}
+
+.Left, .Right{
+    cursor: pointer;
+}
